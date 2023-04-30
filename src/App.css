@@ -130,6 +130,10 @@ h1,h2,h3,h4,h5,h6, p {
 .tasks-container-header {
   border-top: 1px solid #ced4da;
 }
+.all-tasks-header{
+  color: #9d50ca;
+  text-decoration: underline;
+}
 .tasks-container-header > h3 {
   margin-top: 0.5rem;
   color: #007bff
