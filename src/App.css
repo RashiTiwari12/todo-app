@@ -351,6 +351,8 @@ input:focus, textarea:focus {
   font-weight: 400;
   text-align: center;
   white-space: nowrap;
+  background-color: #e4b877;
+  border-color: #eec392;
   cursor: pointer;
   vertical-align: middle;
   user-select: none;
